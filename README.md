@@ -1,0 +1,1 @@
+## Необходимо в settings.py написать свой SECRET_KEY = ''
